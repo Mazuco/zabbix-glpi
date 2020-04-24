@@ -253,5 +253,5 @@ switch ($event) {
 }
 ?>
 
-// Esse código foi publicado originalmete: https://github.com/janssenlima/zabbix-glpi
+// Esse código foi publicado originalmente em: https://github.com/janssenlima/zabbix-glpi
 
